@@ -119,7 +119,10 @@ if __name__ == "__main__":
             print(bad)
 
         print(
-            "\n save valid clients to 'valid_clients.csv', 'valid_clients.json' and 'valid_clients.sqlite'"
+            "\n save valid clients to:\n"
+            "- 'valid_clients.csv'\n"
+            "- 'valid_clients.json'\n"
+            "- 'valid_clients.sqlite'"
         )
         print("Total valid clients:", len(valid))
         print("Errors logged in 'error_log.txt'")

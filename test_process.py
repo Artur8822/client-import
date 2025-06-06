@@ -1,7 +1,7 @@
 import pytest
 from process import import_clients, is_valid_client
 
-### no parameters for this test
+# no parameters for this test
 # #test 1: check validation logic (individual validation scenarios)
 # def test_is_valid_client():
 #     assert is_valid_client("Anna","anna@example.com", "30")
@@ -25,11 +25,9 @@ from process import import_clients, is_valid_client
         ("Anna", "anna@example", "", False),  # empty age
     ],
 )
-
 # pytest.mark.parametrize
 def test_is_valid_client(name, email, age, expected):
     assert is_valid_client(name, email, age) == expected
-
 
 # test 2: simulate importing real CSV file
 def test_import_clients(tmp_path):
