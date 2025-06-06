@@ -1,3 +1,5 @@
+![CI](https://github.com/Artur8822/client-import/actions/workflows/test.yml/badge.svg)
+
 # Client Data Import Tool
 
 A Python automation tool for importing, validating, and separating client data from a CSV file.
