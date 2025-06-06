@@ -1,0 +1,35 @@
+name,email,age
+Anna Nowak,anna.nowak@example.com,29
+Jan Kowalski,jan.k@example.com,55
+,,35
+Ewa Malinowska,ewa@example.com,abc
+Anna Nowak,anna.nowak@example.com,30
+Jan Kowalski,jan.k@example.com,45
+Ewa Malinowska,ewa@example.com,28
+,missingname@example.com,34
+Piotr Zalewski,piotr@example.com,-5
+Tomasz Zieliñski,,32
+Aneta Król,aneta@example.com,abc
+Anna Nowak,anna.nowak@example.com,35
+Katarzyna Lis,kasia@example.com,40
+Damian Olszewski,damian@example.com,0
+Pawe³ Nowak,pawel@example.com,27
+Robert Lewandowski,robert@lewandowski.pl,38
+Anna Nowak,anna.nowak@example.com,30
+Magdalena Kwiatkowska,magda.k@example.com,50
+, ,25
+Anna Nowak,anna.nowak@example.com,30
+Jan Kowalski,jan.k@example.com,45
+Ewa Malinowska,ewa@example.com,28
+,missingname@example.com,34
+Piotr Zalewski,piotr@example.com,-5
+Tomasz Zieliñski,,32
+Aneta Król,aneta@example.com,abc
+Anna Nowak,anna.nowak@example.com,35
+Katarzyna Lis,kasia@example.com,40
+Damian Olszewski,damian@example.com,0
+Pawe³ Nowak,pawel@example.com,27
+Robert Lewandowski,robert@lewandowski.pl,38
+Anna Nowak,anna.nowak@example.com,30
+Magdalena Kwiatkowska,magda.k@example.com,50
+, ,25

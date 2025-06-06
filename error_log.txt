@@ -1,0 +1,27 @@
+[ERROR] invalid row: {'name': '', 'email': '', 'age': '35'}
+[ERROR] invalid row: {'name': 'Ewa Malinowska', 'email': 'ewa@example.com', 'age': 'abc'}
+[ERROR] invalid row: {'name': 'Anna Nowak', 'email': 'anna.nowak@example.com', 'age': '30'}
+[ERROR] invalid row: {'name': 'Jan Kowalski', 'email': 'jan.k@example.com', 'age': '45'}
+[ERROR] invalid row: {'name': '', 'email': 'missingname@example.com', 'age': '34'}
+[ERROR] invalid row: {'name': 'Piotr Zalewski', 'email': 'piotr@example.com', 'age': '-5'}
+[ERROR] invalid row: {'name': 'Tomasz Zieliński', 'email': '', 'age': '32'}
+[ERROR] invalid row: {'name': 'Aneta Król', 'email': 'aneta@example.com', 'age': 'abc'}
+[ERROR] invalid row: {'name': 'Anna Nowak', 'email': 'anna.nowak@example.com', 'age': '35'}
+[ERROR] invalid row: {'name': 'Damian Olszewski', 'email': 'damian@example.com', 'age': '0'}
+[ERROR] invalid row: {'name': 'Anna Nowak', 'email': 'anna.nowak@example.com', 'age': '30'}
+[ERROR] invalid row: {'name': '', 'email': ' ', 'age': '25'}
+[ERROR] invalid row: {'name': 'Anna Nowak', 'email': 'anna.nowak@example.com', 'age': '30'}
+[ERROR] invalid row: {'name': 'Jan Kowalski', 'email': 'jan.k@example.com', 'age': '45'}
+[ERROR] invalid row: {'name': 'Ewa Malinowska', 'email': 'ewa@example.com', 'age': '28'}
+[ERROR] invalid row: {'name': '', 'email': 'missingname@example.com', 'age': '34'}
+[ERROR] invalid row: {'name': 'Piotr Zalewski', 'email': 'piotr@example.com', 'age': '-5'}
+[ERROR] invalid row: {'name': 'Tomasz Zieliński', 'email': '', 'age': '32'}
+[ERROR] invalid row: {'name': 'Aneta Król', 'email': 'aneta@example.com', 'age': 'abc'}
+[ERROR] invalid row: {'name': 'Anna Nowak', 'email': 'anna.nowak@example.com', 'age': '35'}
+[ERROR] invalid row: {'name': 'Katarzyna Lis', 'email': 'kasia@example.com', 'age': '40'}
+[ERROR] invalid row: {'name': 'Damian Olszewski', 'email': 'damian@example.com', 'age': '0'}
+[ERROR] invalid row: {'name': 'Paweł Nowak', 'email': 'pawel@example.com', 'age': '27'}
+[ERROR] invalid row: {'name': 'Robert Lewandowski', 'email': 'robert@lewandowski.pl', 'age': '38'}
+[ERROR] invalid row: {'name': 'Anna Nowak', 'email': 'anna.nowak@example.com', 'age': '30'}
+[ERROR] invalid row: {'name': 'Magdalena Kwiatkowska', 'email': 'magda.k@example.com', 'age': '50'}
+[ERROR] invalid row: {'name': '', 'email': ' ', 'age': '25'}

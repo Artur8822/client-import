@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Anna Nowak",
+    "email": "anna.nowak@example.com",
+    "age": 29
+  },
+  {
+    "name": "Jan Kowalski",
+    "email": "jan.k@example.com",
+    "age": 55
+  },
+  {
+    "name": "Ewa Malinowska",
+    "email": "ewa@example.com",
+    "age": 28
+  },
+  {
+    "name": "Katarzyna Lis",
+    "email": "kasia@example.com",
+    "age": 40
+  },
+  {
+    "name": "Pawe\u0142 Nowak",
+    "email": "pawel@example.com",
+    "age": 27
+  },
+  {
+    "name": "Robert Lewandowski",
+    "email": "robert@lewandowski.pl",
+    "age": 38
+  },
+  {
+    "name": "Magdalena Kwiatkowska",
+    "email": "magda.k@example.com",
+    "age": 50
+  }
+]
