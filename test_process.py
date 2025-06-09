@@ -29,6 +29,7 @@ from process import import_clients, is_valid_client
 def test_is_valid_client(name, email, age, expected):
     assert is_valid_client(name, email, age) == expected
 
+
 # test 2: simulate importing real CSV file
 def test_import_clients(tmp_path):
     # create temporary CSV file
